@@ -1,3 +1,7 @@
+#Name: Ayush Singh
+#Roll No. 18075015
+#Branch: CSE
+
 from itertools import islice
 import random as rnd
 import numpy as np
